@@ -1,0 +1,22 @@
+let's build a vanilla html, css and Javascript website
+the site is a artist brand, an artist that paiint by hand
+this site would display the work of art 
+it should include a brief bio section
+ a display of the artist work
+thenext section should be exhibitions
+this is where the pictures would show, or collections of picture 
+the exhibition pictures should display a sa slide show
+the images should move from right to left
+the images sould be in portrait format
+continouly be flowing
+the footter should have three social media icons
+twitter
+facebook
+ig
+then the brand identity
+i have added a screenshot of teh footer
+give me more ideas that we should add to this project
+do not use emojis
+the site should be mobile responsive
+do not proceed yet, we are brainstorming 
+ensure that the files are seperated into html, css, javascript
